@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "framer-motion": "^11.2.6",
+    "gsap": "^3.12.5",
     "lenis": "^1.0.45",
     "next": "14.2.3",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "resize-observer-polyfill": "^1.5.1"
   },
   "devDependencies": {
     "eslint": "^8",
